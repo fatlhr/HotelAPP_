@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051135666830",
+    "project_id": "hotel-app-7ba46",
+    "storage_bucket": "hotel-app-7ba46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051135666830:android:0d268bf5a9ec0c040437df",
+        "android_client_info": {
+          "package_name": "com.fatiharahmat.hotelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051135666830-rqi5p8qqc7cgrmkdo0fcei2lr20v7ego.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy611QueNGH_EKL0onnBIaYpue1O6rcAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051135666830-rqi5p8qqc7cgrmkdo0fcei2lr20v7ego.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

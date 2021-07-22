@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Hotel APP</string>
+    <string name="by">oleh Fatiha Rahmat</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="lewati">Lewati</string>
+    <string name="memulai">Memulai</string>
+    <string name="onboarding1">Temukan Hotel Terbaik</string>
+    <string name="onboarding1_desc">Temukan hotel terbaik hanya melalui aplikasi ini</string>
+    <string name="onboarding2">Atur Pesananmu Dimana Saja</string>
+    <string name="onboarding2_desc">Atur pesananmu di mana pun dan kapan pun dengan mudah</string>
+    <string name="onboarding3">NIkmati Pengalaman Luar Biasa</string>
+    <string name="onboarding3_desc">Nikmati pengalaman luar biasa di hotel favoritmu bersama partner</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email Address</string>
+    <string name="upload_nanti">Upload Nanti</string>
+    <string name="photo">Photo</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="simpan">Simpan</string>
+    <string name="selamat_datang">Selamat Datang,</string>
+    <string name="hotel_rekomendasi">Hotel Rekomendasi</string>
+    <string name="hotel_terdekat">Hotel Terdekat</string>
+    <string name="pilih_kamar">Pilih Kamar</string>
+    <string name="favorites">Favorites</string>
+    <string name="order_list">Order List</string>
+    <string name="save">save</string>
+    <string name="order_detail">Order Detail</string>
+    <string name="profil">Profil</string>
+    <string name="edit_profil">Ubah Profil</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="my_wallet">Dompet Saya</string>
+    <string name="help">Bantuan</string>
+    <string name="logout">Keluar</string>
+    <string name="daftar">Daftar</string>
+    <string name="masuk">Masuk Akun</string>
+    <string name="daftar_baru">Daftar Baru</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
