@@ -23,9 +23,8 @@ class HotelDetailActivity : AppCompatActivity() {
 
         val data = intent.getParcelableExtra<Hotel>("data")
 
-        mDatabase = FirebaseDatabase.getInstance().getReference("Hotel")
+        mDatabase = FirebaseDatabase.getInstance().getReference("Fasilitas")
             .child(data!!.namaHotel.toString())
-            .child("fasilitas")
 
         tv_namaHotel.text = data.namaHotel
         tv_biaya.text = data.biaya

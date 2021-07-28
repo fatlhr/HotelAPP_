@@ -34,7 +34,7 @@ class EditProfileActivity : AppCompatActivity() {
         mFirebaseInstance = FirebaseDatabase.getInstance()
         mDatabase = FirebaseDatabase.getInstance().getReference("User")
         mDatabaseReference = mFirebaseInstance.getReference("User")
-
+        
         btnPerbarui.setOnClickListener {
             uUsername = et_username.text.toString()
             uPassword = et_password.text.toString()

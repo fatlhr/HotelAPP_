@@ -1,11 +1,14 @@
 package com.fatiharahmat.hotelapp.home
 
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.fragment.app.Fragment
 import com.fatiharahmat.hotelapp.R
+import com.fatiharahmat.hotelapp.model.Hotel
+import com.fatiharahmat.hotelapp.utils.Preferences
+import com.google.firebase.database.DatabaseReference
 
 // TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -21,6 +24,11 @@ class OrderFragment : Fragment() {
     // TODO: Rename and change types of parameters
     private var param1: String? = null
     private var param2: String? = null
+
+
+    private lateinit var  preferences: Preferences
+    private lateinit var mDatabase  : DatabaseReference
+    private var datalist = ArrayList<Hotel>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
