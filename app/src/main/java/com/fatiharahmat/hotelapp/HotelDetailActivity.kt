@@ -10,7 +10,9 @@ import com.fatiharahmat.hotelapp.model.FasilitasModel
 import com.fatiharahmat.hotelapp.model.Hotel
 import com.google.firebase.database.*
 import kotlinx.android.synthetic.main.activity_hotel_detail.*
-
+/*
+fix rvsasilitas
+*/
 
 class HotelDetailActivity : AppCompatActivity() {
 
